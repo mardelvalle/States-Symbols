@@ -1,0 +1,86 @@
+{
+    "intents":[{
+      "intent": "StateIntent",
+      "slots":[
+        {
+          "name":"State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateSymbolRandom",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateDog",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateBird",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateMotto",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateTree",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateFlower",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateSong",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "StateMineral",
+      "slots": [
+        {
+          "name": "State",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent" : "AMAZON.YesIntent"
+    },{
+      "intent" : "AMAZON.NoIntent"
+    },{
+      "intent" : "AMAZON.HelpIntent"
+    }, {
+      "intent" : "AMAZON.StopIntent"
+    }, {
+      "intent" : "AMAZON.CancelIntent"
+    }
+    ]
+}

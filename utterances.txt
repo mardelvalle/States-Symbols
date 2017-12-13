@@ -1,0 +1,9 @@
+StateIntent {State}
+StateIntent Tell me about {State}
+StateIntent Talk about {State}
+StateIntent What are the symbols of {State}
+StateIntent Tell me facts about {State}
+StateIntent Symbols of {State}
+StateIntent Facts about {State}
+AMAZON.HelpIntent Tell me the names of the states
+AMAZON.HelpIntent What are the state names
